@@ -7,7 +7,7 @@ Questo repository contiene il case study, non il sistema. Il workspace reale con
 | | |
 |---|---|
 | **Ruolo** | Founder, product manager, operatore e primo utente |
-| **Periodo** | febbraio – settembre 2026, in corso |
+| **Periodo** | da gennaio 2024, in corso |
 | **Strumenti** | Notion (database relazionati), agenti AI per i rituali |
 | **Stato** | in uso; sistema a utente singolo |
 
