@@ -49,7 +49,7 @@ Il caso che mostra meglio il sistema che si corregge sull'evidenza:
 
 | Data | Passaggio |
 |---|---|
-| 12 febbraio 2026 | nasce la radice del sistema |
+| 12 febbraio 2026 | nasce la radice della versione attuale del sistema |
 | 11 marzo | prima specifica tecnica |
 | 13–18 aprile | primo avvio completo |
 | 22 maggio | arriva l'assistente AI |
